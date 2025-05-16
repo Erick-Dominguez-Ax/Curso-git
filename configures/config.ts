@@ -1,4 +1,4 @@
 export const CONFIG={
-    dbURL='dhjsjdbddkjdnkjdq.com',
-    port:3000
+    dbURL:'dhjsjdbddkjdnkjdq.com',
+    port: 8000
 }
