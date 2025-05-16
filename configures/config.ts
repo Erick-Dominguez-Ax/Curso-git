@@ -1,4 +1,5 @@
 export const CONFIG={
     dbURL:'dhjsjdbddkjdnkjdq.com',
-    port: 8000
+    db_Port:4200
+
 }
